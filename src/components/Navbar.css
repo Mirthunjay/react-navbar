@@ -139,4 +139,8 @@
   button {
     display: none;
   }
+
+  .fa-caret-down {
+    display: none;
+  }
 }
